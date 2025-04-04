@@ -16,8 +16,8 @@ struct LogData{
 
 
 // Replace with your network credentials
-const char* ssid     = "FPHome";
-const char* password = "cyberjoe";
+const char* ssid     = "<wifi_SSID>";
+const char* password = "<wifi_Password>";
 WiFiServer server(80);
 
 
